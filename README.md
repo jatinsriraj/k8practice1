@@ -8,4 +8,4 @@ This project is configure RoboShop using Pods, ConfigMaps, Secrets. These are th
 * Don't change the default ports of DB tier with the service attachment.
 * Nginx config in web project is important.
 
-![alt text](roboshop-k8.jpg)
+![alt text](roboshop-k8.jpg)# k8practice1
